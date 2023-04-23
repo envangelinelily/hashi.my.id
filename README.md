@@ -1,1 +1,1 @@
-# hashi.my.id
+# cdn.hashi.my.id
